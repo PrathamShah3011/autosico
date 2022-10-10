@@ -136,3 +136,9 @@
 .footer-par{
     color: gray;
 }
+
+
+.container-fluid{
+    padding: 7% 15%;
+    text-align: center;
+}
