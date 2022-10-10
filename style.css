@@ -125,3 +125,14 @@
 #converterInnerCard2 {
     border: 0px solid;
 }
+
+/* Footer */
+
+.footer-icon{
+    color: black;
+    margin: 20px 10px;
+}
+
+.footer-par{
+    color: gray;
+}
